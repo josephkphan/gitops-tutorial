@@ -102,7 +102,7 @@ spec:
         # replace or remove the following URL
         - --git-url=git@github.com:josephkphan/gitops-tutorial.git
         - --git-path=deploy/kubernetes
-        - --git-branch=tutorial
+        - --git-branch=master
 
         # include these next two to connect to an "upstream" service
         # (e.g., Weave Cloud). The token is particular to the service.
